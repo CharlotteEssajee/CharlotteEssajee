@@ -10,7 +10,7 @@
 
 
 ### Reach out to me
-💼 View my [LinkedIn Account](https://www.linkedin.com/in/charlotte-essajee-67aa39226/)
+💼 View my [LinkedIn Profile](https://www.linkedin.com/in/charlotte-essajee-67aa39226/)
 
 📧 Send me an E-mail! charlotte.ee@hotmail.com
 
