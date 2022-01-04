@@ -1,6 +1,8 @@
-# Hi there, i'm Charlotte 👋
+## Hi there, i'm Charlotte 👋
 
 ### Who am I?
+👩 I am a 26 year old from Bergen 
+
 🎓 I work as a Frontend Developer 
 
 💻 I am currently studying at Noroff
