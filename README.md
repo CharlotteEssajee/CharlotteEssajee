@@ -1,3 +1,4 @@
+<div style="max-width: 400px">
 ## Hi there, i'm Charlotte 👋
 And I am a 26 year old Front-End Developer with a passion for design. I am currently studying Front-End Development at Noroff, and working fulltime at Mint Media in Bergen. On my spare time I enjoy beeing active and hanging out with friends and family. I love beeing creative - does not matter if it is prototyping a new project, starting to code a new site, or just taking pictures for my Instagram.
 
@@ -17,7 +18,7 @@ And I am a 26 year old Front-End Developer with a passion for design. I am curre
 
 📧 Send me an E-mail! charlotte.ee@hotmail.com
 
-
+</div>
 <!--
 **CharlotteEssajee/CharlotteEssajee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
