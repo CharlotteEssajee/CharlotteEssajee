@@ -1,6 +1,17 @@
 ## Hi there, i'm Charlotte 👋
 And I am a 26 year old Front-End Developer with a passion for design. I am currently studying Front-End Development at Noroff, and working fulltime at Mint Media in Bergen. On my spare time I enjoy beeing active and hanging out with friends and family. I love beeing creative - does not matter if it is prototyping a new project, starting to code a new site, or just taking pictures for my Instagram.
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 
 ### Who am I?
 👩 I am a 26 year old from Bergen 
