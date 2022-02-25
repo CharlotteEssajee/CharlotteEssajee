@@ -14,6 +14,17 @@
 
 📧 Send me an E-mail! charlotte.ee@hotmail.com
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 <!--
 **CharlotteEssajee/CharlotteEssajee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
