@@ -8,10 +8,8 @@ And I am a 26 year old Front-End Developer with a passion for design. I am curre
  </tr>
  <tr>
     <td>👩 I am a 26 year old from Bergen
-
-🎓 I work as a Frontend Developer
-
-💻 I am currently studying at Noroff</td>
+        🎓 I work as a Frontend Developer
+        💻 I am currently studying at Noroff</td>
     <td>💼 View my [LinkedIn Profile](https://www.linkedin.com/in/charlotte-essajee-67aa39226/)
 
 📧 Send me an E-mail! charlotte.ee@hotmail.com</td>
