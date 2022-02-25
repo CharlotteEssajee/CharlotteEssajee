@@ -8,18 +8,18 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charlotteessajee&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Who am I?
-👩 I am a 26 year old from Bergen 
+I am a 26 year old from Bergen 
 
-🎓 I work as a Frontend Developer 
+I work as a Frontend Developer 
 
-💻 I am currently studying at Noroff
+I am currently studying at Noroff
 
 
 
 ### Reach out to me
-💼 View my [LinkedIn Profile](https://www.linkedin.com/in/charlotte-essajee-67aa39226/)
+View my [LinkedIn Profile](https://www.linkedin.com/in/charlotte-essajee-67aa39226/)
 
-📧 Send me an E-mail! charlotte.ee@hotmail.com
+Send me an E-mail! charlotte.ee@hotmail.com
 
 <!--
 **CharlotteEssajee/CharlotteEssajee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
