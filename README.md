@@ -8,11 +8,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charlotteessajee&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ### Who am I?
+``` js
 I am a 26 year old from Bergen 
 
 I work as a Frontend Developer 
 
 I am currently studying at Noroff
+```
 
 
 
