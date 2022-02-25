@@ -20,6 +20,7 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/charlotte-essajee-67aa392
 
 Send me an E-mail! charlotte.ee@hotmail.com
 
+<--
 **CharlotteEssajee/CharlotteEssajee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
