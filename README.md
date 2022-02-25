@@ -7,8 +7,14 @@ And I am a 26 year old Front-End Developer with a passion for design. I am curre
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
+    <td>👩 I am a 26 year old from Bergen
+
+🎓 I work as a Frontend Developer
+
+💻 I am currently studying at Noroff</td>
+    <td>💼 View my [LinkedIn Profile](https://www.linkedin.com/in/charlotte-essajee-67aa39226/)
+
+📧 Send me an E-mail! charlotte.ee@hotmail.com</td>
  </tr>
 </table>
 
