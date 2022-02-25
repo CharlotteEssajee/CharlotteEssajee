@@ -2,16 +2,13 @@
 
 ### Who am I?
 👩 I am a 26 year old from Bergen 
-
 🎓 I work as a Frontend Developer 
-
 💻 I am currently studying at Noroff
 
 
 
 ### Reach out to me
 💼 View my [LinkedIn Profile](https://www.linkedin.com/in/charlotte-essajee-67aa39226/)
-
 📧 Send me an E-mail! charlotte.ee@hotmail.com
 
 <!--
