@@ -10,8 +10,8 @@ View my [LinkedIn Profile](https://www.linkedin.com/in/charlotte-essajee-67aa392
 
 Send me an E-mail! charlotte.ee@hotmail.com
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+### Connect with me
+<a href = 'https://www.linkedin.com/in/charlotte-essajee-67aa39226/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 <!--
 **CharlotteEssajee/CharlotteEssajee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
